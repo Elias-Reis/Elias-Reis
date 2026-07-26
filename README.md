@@ -1,15 +1,17 @@
 ## Elias Reis
 
-##Sobre mim:
-Sou estudante de Análise e desenvolvimento de sistemas.
+### Sobre mim:
+Sou estudante de Análise e Desenvolvimento de Sistemas.
 
-##Aprendizado:
+### Aprendizado:
 Aprendendo as bases de lógica de programação e python.
 
-##Objetivo:
+Cursando Certificado Profissional de Ciências de Dados da IBM
+
+### Objetivo:
 Trabalhar na área de dados.
 
-##Contato: 
+### Contato: 
 Email: elias221147@gmail.com
 
 <!--
