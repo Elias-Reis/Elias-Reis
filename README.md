@@ -1,18 +1,35 @@
-## Elias Reis
+# Olá, eu sou Elias Reis! 👋
 
-### Sobre mim:
-Sou estudante de Análise e Desenvolvimento de Sistemas.
+Minha trajetória na tecnologia começou com uma mudança de carreira. Após minha formação em Gastronomia, decidi explorar novos desafios e transformar minha curiosidade por tecnologia em uma profissão.
 
-### Aprendizado:
-Aprendendo as bases de lógica de programação e python.
+Atualmente, sou graduando em **Análise e Desenvolvimento de Sistemas**, com foco em **Engenharia de Dados**. Estou desenvolvendo minhas habilidades em Python, SQL, análise de dados e processos ETL, buscando consolidar meus conhecimentos por meio de estudos e projetos práticos.
 
-Cursando Certificado Profissional de Ciências de Dados da IBM
+Meu objetivo é ingressar profissionalmente na área de tecnologia, adquirir experiência, colaborar com equipes e contribuir para o desenvolvimento de soluções que transformem dados em informação e conhecimento.
 
-### Objetivo:
-Trabalhar na área de dados.
+Este GitHub representa minha jornada de aprendizado, meus projetos e minha evolução profissional.
 
-### Contato: 
-Email: elias221147@gmail.com
+
+## Tecnologias e ferramentas de aprendizado
+
+![My Skills](https://skillicons.dev/icons?i=python,mysql,git,github,anaconda,linux)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+## Projetos
+
+### Open-Meteo ETL — Pipeline de Dados Climáticos
+
+Pipeline ETL desenvolvido em Python para extrair dados meteorológicos de diferentes cidades, realizar transformações e armazenar os resultados em arquivos CSV e banco de dados SQLite.
+
+**Tecnologias:** Python, Pandas, API REST e SQLite.
+
+[**Acessar repositório**](https://github.com/Elias-Reis/etl-clima)
+
+## Onde me encontrar
+
+- [**Meu LinkedIn**](https://www.linkedin.com/in/elias1reis/)
+- [**Meu email**](mailto:elias221147@gmail.com)
+
 
 <!--
 **Elias-Reis/Elias-Reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
